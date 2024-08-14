@@ -1,3 +1,6 @@
-First line is added.
-]
-Now, This is an perfect line.
+#include "Character.h"
+
+int main () {
+
+    return 0;
+}
