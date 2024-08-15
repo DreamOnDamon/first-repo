@@ -1,1 +1,2 @@
+//function is just a test function
 int func(){}
